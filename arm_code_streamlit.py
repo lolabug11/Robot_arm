@@ -52,23 +52,7 @@ with rCol2:
     LC, MC1, RC = st.columns(3,gap=None)
     with MC1:
         a = st.container(border=True,width="stretch",height="content")
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        0
 
         with a:
 
