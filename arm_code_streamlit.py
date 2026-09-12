@@ -136,7 +136,6 @@ with rCol2:
                 if st.button("ch+"):
                     print(f"{st.session_state['selected']}")
                     if st.session_state['selected']:
-                        print('FUCKFUCKFUCKFUCKFUCKFUCK')
                         if st.session_state['selected'] == 1:
                             if st.session_state['thumb_speed_mode'] < 5:
                                 st.session_state['thumb_speed_mode'] += 1
